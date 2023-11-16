@@ -7,5 +7,12 @@
 html, body{
     width: 100vw;
     height: 100vh;
-    background-color: rgb(244, 157, 113);;
+    background-color: rgb(35, 62, 255);
+    background-repeat: no-repeat
+}
+h1{
+    color: white;
+    text-shadow: 2px 2px 0px blue;
+    padding: 10px;
+
 }
